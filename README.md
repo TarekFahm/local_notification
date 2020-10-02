@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Resources used to build this application:
 
-https://medium.com/flutterdevs/local-push-notification-in-flutter-763605b84985
+- https://medium.com/flutterdevs/local-push-notification-in-flutter-763605b84985
