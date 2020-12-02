@@ -1,5 +1,5 @@
 
-# local_notification
+# Local Notification
 
 ![alt text](https://github.com/TarekFahm/local_notification/blob/master/screens/screen.jpg)
 
