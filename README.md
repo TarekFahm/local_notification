@@ -1,9 +1,9 @@
 
-![alt text](https://github.com/TarekFahm/local_notification/blob/master/screens/screen.jpg)
-
 # local_notification
 
-Flutter local notification project.
+![alt text](https://github.com/TarekFahm/local_notification/blob/master/screens/screen.jpg)
+
+Using local notification in flutter project.
 
 ## Getting Started
 
